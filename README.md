@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/iconsi=go,c,cpp,py,rust,cs,vscode,threejs,ts,js,html,css,tailwind,redis,react,pr,postman,postgres,npm,nodejs,nextjs,md,linux,kubernetes,kafka,ai,grafana,gitlab,github,flutter,fastapi,dotnet,docker,django,nginx,wasm,ubuntu,githubactions,svg,vue,windows" />
+  <img src="https://skillicons.dev/icons?i=go,c,cpp,py,rust,cs,vscode,threejs,ts,js,html,css,tailwind,redis,react,pr,postman,postgres,npm,nodejs,nextjs,md,linux,kubernetes,kafka,ai,grafana,gitlab,github,flutter,fastapi,dotnet,docker,django,nginx,wasm,ubuntu,githubactions,svg,vue,windows" />
 </p>
 
 <p align="center">
